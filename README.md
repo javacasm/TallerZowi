@@ -27,7 +27,6 @@
 ![zowiApp](./images/zowi-app-f75171-h900.jpg)
 
 
-
 # ¿Qué hay dentro de Zowi?
 
 ![dentroZowi](./images/imagen_3_mont_esquema.PNG)
@@ -67,8 +66,15 @@
 ## Vamos a jugar con Zowi!!
 
 1. Baile
-1. EsquivaObstáculos
-1.
+1. Esquiva-Obstáculos
+1. Zowi oye
 
+## Vamos a jugar con la aplicación
 
-## Vamos a vela aplicación
+![mueve](./images/zowi-app-2c7e3f-h900.jpg)
+
+## Haz una secuencia
+
+![Secuencia.png](./images/Secuencia.png)
+
+## Todo esto es lo que sabe hacer Zowi, pero podemos cambiar su programa
