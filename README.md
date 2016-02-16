@@ -63,6 +63,12 @@
 
 ![ZowiMod](https://github.com/bqlabs/zowi/raw/master/mods/Forge/images/forge.jpg)
 
+## Zowi es un robot, pero hay que tener cuidadarle:
+
+### Cuida de que no se caiga de la mesa
+### No intentes forzar sus movimientos
+### Mímalo
+
 ## Vamos a jugar con Zowi!!
 
 1. Baile
