@@ -1,8 +1,6 @@
 # Taller de Zowi
 
-## CEIP Federico García Lorca
-
-## 17 de Febrero de 2016
+## Febrero de 2016
 
 ![CC](./images/Licencia CC.png)
 
