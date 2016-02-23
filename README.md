@@ -45,7 +45,7 @@
 
 ![Instrucciones](./images/imagen_3_mont_conex.PNG)
 
-# Zowi es open-source
+# [Zowi es open-source](https://github.com/bqlabs/zowi)
 
 ## Lo puedes [reprogramar](http://bitbloq.bq.com)
 
